@@ -2,7 +2,7 @@
 # 🚀 Project: My Awesome Project
 
 Developer: [Your Name]  
-Src Directory: /c/Users/josue/OneDrive/Desktop/Git/GitHub/1094240982-UP-JosueReyes/BD-GB-ZOO 📂  
+Src Directory: Git/GitHub/1094240982-UP-JosueReyes/BD-GB-ZOO 📂  
 Created: 23-Octubre 2024 🗓️  
 Last Updated: 23-October 2024 ✨  
 
